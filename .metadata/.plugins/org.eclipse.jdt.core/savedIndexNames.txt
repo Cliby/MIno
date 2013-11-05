@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/Users/macmini/Desktop/MIno/.metadata/.plugins/org.eclipse.jdt.core
+1208472831.index
+2233073500.index
+3685040150.index
+2292000239.index
